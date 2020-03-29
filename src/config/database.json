@@ -1,0 +1,33 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "rocket_seat_auth_tdd_development",
+    "host": "127.0.0.1",
+    "port": "15432",
+    "dialect": "postgres",
+    "operatorsAliases": false,
+    "logging": true,
+    "define": {
+      "timestamps": true,
+      "underscored": true,
+      "underscoredAll": true
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "auth_tdd_database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "auth_tdd_database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
