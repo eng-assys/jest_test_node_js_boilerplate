@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1585497181465" clover="3.2.0">
-  <project timestamp="1585497181465" name="All files">
-    <metrics statements="72" coveredstatements="65" conditionals="21" coveredconditionals="13" methods="15" coveredmethods="13" elements="108" coveredelements="91" complexity="0" loc="72" ncloc="72" packages="6" files="9" classes="9"/>
+<coverage generated="1585497301553" clover="3.2.0">
+  <project timestamp="1585497301553" name="All files">
+    <metrics statements="69" coveredstatements="65" conditionals="21" coveredconditionals="13" methods="13" coveredmethods="13" elements="103" coveredelements="91" complexity="0" loc="69" ncloc="69" packages="5" files="8" classes="8"/>
     <package name="src">
       <metrics statements="18" coveredstatements="16" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="4"/>
       <file name="app.js" path="/Users/eng_assys/Workspace/vollare/estudando/rocket_seat/authtdd/src/app.js">
@@ -108,15 +108,6 @@
         <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="0" coveredmethods="0"/>
         <line num="1" count="2" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
-      </file>
-    </package>
-    <package name="src.database.migrations">
-      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
-      <file name="20200328181142-create-users.js" path="/Users/eng_assys/Workspace/vollare/estudando/rocket_seat/authtdd/src/database/migrations/20200328181142-create-users.js">
-        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
-        <line num="3" count="0" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="45" count="0" type="stmt"/>
       </file>
     </package>
   </project>
